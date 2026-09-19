@@ -29,7 +29,7 @@ My work begins with feeling, but it doesn't end there. I care about the tiny det
 DESIGN       → identities, campaigns, interfaces, visual systems
 CODE         → responsive experiences, creative front ends, useful tools
 FILM         → editing, motion, narrative, emotional pacing
-PURPOSE      → technology that feels human and work that carries hope
+PURPOSE      → make useful things that mean something
 ```
 
 ## Selected work
