@@ -69,10 +69,11 @@ PURPOSE      → technology that feels human and work that carries hope
 
 </div>
 
-**Design & direction** · Brand systems, art direction, UI/UX, campaigns, print and digital design  
-**Film & motion** · Editing, post-production, motion graphics, livestream production  
+**Design & direction** · Adobe Photoshop, Illustrator, Figma, brand systems, art direction, UI/UX, print and digital design  
+**Film & motion** · DaVinci Resolve, Premiere Pro, After Effects, video editing, color grading, post-production, motion graphics  
 **Web & commerce** · HTML, CSS, JavaScript, TypeScript, React, BigCommerce, Shopify, WordPress  
-**Growth & storytelling** · Email marketing, Meta Ads, content strategy, visual narratives
+**Marketing & growth** · Mailchimp, Klaviyo, Meta Ads, AdRoll, email marketing, content strategy  
+**Broadcast & production** · OBS Studio, Restream, livestream production, visual storytelling
 
 ## Currently creating
 
