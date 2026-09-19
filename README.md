@@ -65,7 +65,9 @@ PURPOSE      → make useful things that mean something
 
 <div align="center">
 
-[![Creative tools](https://skillicons.dev/icons?i=html,css,js,ts,react,wordpress,figma,ps,ai,pr,ae&theme=dark&perline=11)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,wordpress,figma,ps,ai,pr,ae&theme=dark&perline=11" height="48" alt="Creative technology tools" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/davinciresolve/FFFFFF" height="48" width="48" alt="DaVinci Resolve" title="DaVinci Resolve" />
 
 </div>
 
